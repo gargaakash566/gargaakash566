@@ -6,6 +6,12 @@
 
 You can reach or join me through various social sites listed down below: 
 
+1. Linkedin - 
+2. Instagram - 
+3. Facebook - 
+4. Twitter - 
+5. Medium - 
+
 <!---
 gargaakash566/gargaakash566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
